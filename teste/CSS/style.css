@@ -1,0 +1,41 @@
+
+body {
+    background-color: rgb(34, 34, 34);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    font-size: 30px;
+    
+    
+}
+ul {
+    color: rgb(255, 255, 255);
+    margin: 0.1px;
+    font-size: 28px;
+    font-family: Arial;
+}
+li {
+    color: rgb(255, 255, 255);
+    margin: 0.1px;
+    font-size: 20px;
+    font-family: Arial;
+}
+input {
+    width: 100px;
+    height: 25px;
+    
+}
+mark {
+    background-color:#00ff00; color:#000000;
+    
+     border-radius: 10%;  
+}
+
+div {
+    background-color: lightgrey;
+    width: 1870px;
+    border: 5px solid green;
+    padding: 0.1px;
+    margin: 10px;
+}
